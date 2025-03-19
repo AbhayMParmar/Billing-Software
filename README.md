@@ -14,4 +14,4 @@ Product Details Page:-
 
 Invoice Page:-
 
-![image](https://github.com/AbhayMParmar/Billing-Software/blob/master/Account%20Lager%20(1).png?raw=true)
+![image](https://github.com/AbhayMParmar/Billing-Software/blob/master/Invoice.png?raw=true)
